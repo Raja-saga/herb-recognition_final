@@ -1,0 +1,368 @@
+{
+    "herb": "Psoralea_corylifolia",
+    "locations": [
+        {
+            "latitude": 18.481384,
+            "longitude": 73.811531,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.481843,
+            "longitude": 73.810617,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.931982,
+            "longitude": 77.752304,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.562642,
+            "longitude": 73.794342,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.666426,
+            "longitude": 76.988541,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.61045,
+            "longitude": 79.872021,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.018709,
+            "longitude": 85.379845,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 21.700828,
+            "longitude": 79.437912,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 20.765068,
+            "longitude": 76.7397,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 21.060076,
+            "longitude": 76.064017,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.471907,
+            "longitude": 76.939003,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.676746,
+            "longitude": 76.985207,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.62775,
+            "longitude": 76.983322,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.632521,
+            "longitude": 76.983528,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.023363,
+            "longitude": 85.385071,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 25.014021,
+            "longitude": 85.36969,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 18.810654,
+            "longitude": 72.940971,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.475599,
+            "longitude": 73.84517,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.663008,
+            "longitude": 76.995537,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.679686,
+            "longitude": 76.999542,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.692858,
+            "longitude": 76.996674,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.755421,
+            "longitude": 77.034309,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.545118,
+            "longitude": 77.034828,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.6782,
+            "longitude": 78.96462,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 20.755333,
+            "longitude": 77.03418,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 21.855823,
+            "longitude": 81.919434,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 17.327715,
+            "longitude": 78.384932,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.321091,
+            "longitude": 78.393821,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.321091,
+            "longitude": 78.393821,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.321091,
+            "longitude": 78.393821,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 18.519912,
+            "longitude": 73.781159,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.712973,
+            "longitude": 77.062302,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.677493,
+            "longitude": 73.752487,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.679224,
+            "longitude": 73.752047,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.679224,
+            "longitude": 73.752047,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.811404,
+            "longitude": 72.940577,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 22.05973,
+            "longitude": 81.880119,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 20.593525,
+            "longitude": 76.980644,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.061796,
+            "longitude": 75.297909,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.628313,
+            "longitude": 73.644072,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.544113,
+            "longitude": 73.916016,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 20.69581,
+            "longitude": 76.960538,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.476635,
+            "longitude": 73.847237,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.549314,
+            "longitude": 73.805314,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 21.809038,
+            "longitude": 83.309133,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 25.019217,
+            "longitude": 85.379848,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 18.649178,
+            "longitude": 73.770682,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 19.477751,
+            "longitude": 75.384938,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 19.897399,
+            "longitude": 75.332472,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 19.897366,
+            "longitude": 75.332472,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.679224,
+            "longitude": 73.752047,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.143612,
+            "longitude": 73.792221,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.484219,
+            "longitude": 73.826311,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 17.698172,
+            "longitude": 73.969094,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 21.125,
+            "longitude": 73.57881,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 19.997453,
+            "longitude": 73.789802,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.37575,
+            "longitude": 76.8358,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.05545,
+            "longitude": 76.0409,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 18.56427,
+            "longitude": 73.794866,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 22.572778,
+            "longitude": 88.363889,
+            "country": "India",
+            "state": "WestBengal"
+        }
+    ],
+    "scientific_name": "Psoralea_corylifolia",
+    "common_name": null,
+    "description": null
+}

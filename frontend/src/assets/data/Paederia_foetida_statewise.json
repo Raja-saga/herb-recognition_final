@@ -1,0 +1,156 @@
+{
+  "herb": "Paederia_foetida",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 111,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Telangana": {
+      "count": 28,
+      "normalizedScore": 0.25,
+      "presence": "Low"
+    },
+    "Chhattisgarh": {
+      "count": 22,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Assam": {
+      "count": 12,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "TamilNadu": {
+      "count": 45,
+      "normalizedScore": 0.41,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 57,
+      "normalizedScore": 0.51,
+      "presence": "Medium"
+    },
+    "Kerala": {
+      "count": 21,
+      "normalizedScore": 0.19,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 46,
+      "normalizedScore": 0.41,
+      "presence": "Low"
+    },
+    "WestBengal": {
+      "count": 17,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Delhi": {
+      "count": 4,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 54,
+      "normalizedScore": 0.49,
+      "presence": "Medium"
+    },
+    "Goa": {
+      "count": 6,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 32,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "Odisha": {
+      "count": 15,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 48,
+      "normalizedScore": 0.43,
+      "presence": "Low"
+    },
+    "Punjab": {
+      "count": 15,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "Bihar": {
+      "count": 26,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "JammuAndKashmir": {
+      "count": 6,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Jharkhand": {
+      "count": 17,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 6,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 40,
+      "normalizedScore": 0.36,
+      "presence": "Low"
+    },
+    "Haryana": {
+      "count": 21,
+      "normalizedScore": 0.19,
+      "presence": "Very Low"
+    },
+    "Tripura": {
+      "count": 2,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Manipur": {
+      "count": 2,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "HimachalPradesh": {
+      "count": 14,
+      "normalizedScore": 0.13,
+      "presence": "Very Low"
+    },
+    "Mizoram": {
+      "count": 2,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Meghalaya": {
+      "count": 5,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Nagaland": {
+      "count": 5,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "ArunachalPradesh": {
+      "count": 5,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Sikkim": {
+      "count": 2,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

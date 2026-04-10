@@ -1,0 +1,350 @@
+{
+  "herb": "Rubia cordifolia",
+  "locations": [
+    {
+      "latitude": 29.329712,
+      "longitude": 79.613898,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 18.201333,
+      "longitude": 73.719034,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.520126,
+      "longitude": 77.792643,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 25.190814,
+      "longitude": 75.790864,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.190858,
+      "longitude": 75.790865,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.191941,
+      "longitude": 75.800914,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.191941,
+      "longitude": 75.800914,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.198493,
+      "longitude": 75.793354,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.940375,
+      "longitude": 75.930172,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.890744,
+      "longitude": 75.908397,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 19.112059,
+      "longitude": 74.556141,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.72665,
+      "longitude": 81.103432,
+      "country": "India",
+      "state": "AndhraPradesh"
+    },
+    {
+      "latitude": 15.488878,
+      "longitude": 73.820777,
+      "country": "India",
+      "state": "Goa"
+    },
+    {
+      "latitude": 23.253161,
+      "longitude": 77.461378,
+      "country": "India",
+      "state": "MadhyaPradesh"
+    },
+    {
+      "latitude": 28.64559,
+      "longitude": 77.362289,
+      "country": "India",
+      "state": "UttarPradesh"
+    },
+    {
+      "latitude": 28.94512,
+      "longitude": 79.813293,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 15.463022,
+      "longitude": 73.845826,
+      "country": "India",
+      "state": "Goa"
+    },
+    {
+      "latitude": 29.572454,
+      "longitude": 79.83996,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 20.713431,
+      "longitude": 70.925579,
+      "country": "India",
+      "state": "DamanandDiu"
+    },
+    {
+      "latitude": 28.139997,
+      "longitude": 77.322686,
+      "country": "India",
+      "state": "Haryana"
+    },
+    {
+      "latitude": 10.006473,
+      "longitude": 77.628507,
+      "country": "India",
+      "state": "TamilNadu"
+    },
+    {
+      "latitude": 14.351929,
+      "longitude": 79.975949,
+      "country": "India",
+      "state": "AndhraPradesh"
+    },
+    {
+      "latitude": 18.63384,
+      "longitude": 73.792052,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 19.457859,
+      "longitude": 74.23554,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 25.412508,
+      "longitude": 81.850912,
+      "country": "India",
+      "state": "UttarPradesh"
+    },
+    {
+      "latitude": 27.321021,
+      "longitude": 75.894178,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 19.349297,
+      "longitude": 83.781074,
+      "country": "India",
+      "state": "Odisha"
+    },
+    {
+      "latitude": 19.349159,
+      "longitude": 83.781186,
+      "country": "India",
+      "state": "Odisha"
+    },
+    {
+      "latitude": 30.937862,
+      "longitude": 75.831308,
+      "country": "India",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.077331,
+      "longitude": 80.243806,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 11.554288,
+      "longitude": 76.084397,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 10.277144,
+      "longitude": 77.165027,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 30.605707,
+      "longitude": 77.927232,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 11.99638,
+      "longitude": 77.140853,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 30.076805,
+      "longitude": 80.233231,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 27.169387,
+      "longitude": 88.041001,
+      "country": "India",
+      "state": "WestBengal"
+    },
+    {
+      "latitude": 18.713215,
+      "longitude": 73.459918,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.082981,
+      "longitude": 80.237328,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 32.243599,
+      "longitude": 77.166434,
+      "country": "India",
+      "state": "HimachalPradesh"
+    },
+    {
+      "latitude": 15.922637,
+      "longitude": 74.012385,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.07692,
+      "longitude": 80.233144,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 17.930729,
+      "longitude": 73.647734,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 18.276937,
+      "longitude": 73.621916,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.459789,
+      "longitude": 78.064372,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 15.746164,
+      "longitude": 74.411126,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 27.547558,
+      "longitude": 93.897484,
+      "country": "India",
+      "state": "ArunachalPradesh"
+    },
+    {
+      "latitude": 17.91417,
+      "longitude": 73.690489,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.48735,
+      "longitude": 73.426383,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.083355,
+      "longitude": 78.133221,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 30.952508,
+      "longitude": 77.20253,
+      "country": "India",
+      "state": "HimachalPradesh"
+    },
+    {
+      "latitude": 13.0,
+      "longitude": 75.7,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 10.237898,
+      "longitude": 77.491183,
+      "country": "India",
+      "state": "TamilNadu"
+    },
+    {
+      "latitude": 30.3421,
+      "longitude": 77.9973,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 31.974645,
+      "longitude": 77.888096,
+      "country": "India",
+      "state": "HimachalPradesh"
+    }
+  ],
+  "scientific_name": "Rubia cordifolia",
+  "common_name": "Indian Madder",
+  "description": null
+}

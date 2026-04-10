@@ -1,0 +1,1 @@
+// const fs = require(\"fs\");\nconst path = require(\"path\");\n\nconst DATA_DIR = path.join(__dirname, \"../../dataset/processed\");\n\nfunction loadStateData(herb) {\n  const file = path.join(DATA_DIR, `${herb}_statewise.json`);\n  if (!fs.existsSync(file)) return null;\n  return JSON.parse(fs.readFileSync(file, \"utf8\"));\n}\n\nmodule.exports = { loadStateData };

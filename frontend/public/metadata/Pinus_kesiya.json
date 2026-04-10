@@ -1,0 +1,4988 @@
+{
+    "herb": "Pinus_kesiya",
+    "locations": [
+        {
+            "latitude": 17.430438,
+            "longitude": 78.391734,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 12.936917,
+            "longitude": 79.180297,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 8.73107,
+            "longitude": 77.870042,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 25.413314,
+            "longitude": 81.846528,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 13.042338,
+            "longitude": 80.210973,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 19.659958,
+            "longitude": 85.104001,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 17.476289,
+            "longitude": 78.336028,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.362332,
+            "longitude": 76.876891,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 20.17078,
+            "longitude": 85.681649,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 17.365547,
+            "longitude": 78.356789,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 11.983961,
+            "longitude": 79.831947,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 13.027018,
+            "longitude": 80.110735,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 25.629601,
+            "longitude": 88.129352,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.451825,
+            "longitude": 78.356039,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 11.989417,
+            "longitude": 79.827553,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.99601,
+            "longitude": 80.236919,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.958645,
+            "longitude": 79.388959,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.177773,
+            "longitude": 79.875734,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.78619,
+            "longitude": 79.310863,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 12.558441,
+            "longitude": 79.009735,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.455044,
+            "longitude": 78.320883,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.548186,
+            "longitude": 78.457758,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 19.329161,
+            "longitude": 83.835867,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 15.39819,
+            "longitude": 74.010236,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 17.426603,
+            "longitude": 78.398575,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.41532,
+            "longitude": 78.546522,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.805218,
+            "longitude": 78.759499,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.366978,
+            "longitude": 78.361111,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.450902,
+            "longitude": 78.376107,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.415645,
+            "longitude": 78.546107,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.41559,
+            "longitude": 78.546242,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.450963,
+            "longitude": 78.376202,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.989851,
+            "longitude": 84.850284,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 17.366707,
+            "longitude": 78.354968,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 8.329944,
+            "longitude": 77.441969,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 11.102578,
+            "longitude": 77.174722,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 11.103486,
+            "longitude": 77.173831,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.450913,
+            "longitude": 78.376037,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.1869,
+            "longitude": 75.84661,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 19.65442,
+            "longitude": 85.114291,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 21.758147,
+            "longitude": 88.222121,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 25.18681,
+            "longitude": 75.846373,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 17.428139,
+            "longitude": 78.339361,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 20.202893,
+            "longitude": 85.796957,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 25.275721,
+            "longitude": 85.455918,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 25.186828,
+            "longitude": 75.846392,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 17.365228,
+            "longitude": 78.356905,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.738613,
+            "longitude": 78.282967,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 21.859544,
+            "longitude": 73.520025,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 22.526015,
+            "longitude": 78.188491,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 18.260773,
+            "longitude": 80.176598,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.372468,
+            "longitude": 78.339982,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 24.171877,
+            "longitude": 92.016876,
+            "country": "India",
+            "state": "Tripura"
+        },
+        {
+            "latitude": 23.121749,
+            "longitude": 79.927665,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 22.68301,
+            "longitude": 88.703872,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 18.536854,
+            "longitude": 73.857817,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 8.312768,
+            "longitude": 77.45209,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.686869,
+            "longitude": 80.155803,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.104858,
+            "longitude": 75.236732,
+            "country": "India",
+            "state": "Puducherry"
+        },
+        {
+            "latitude": 12.127889,
+            "longitude": 75.516861,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 14.009688,
+            "longitude": 76.56347,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 8.455519,
+            "longitude": 77.303603,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 11.520233,
+            "longitude": 77.688968,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.450618,
+            "longitude": 78.37774,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.408493,
+            "longitude": 81.83926,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.450973,
+            "longitude": 78.376885,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 24.139964,
+            "longitude": 92.029391,
+            "country": "India",
+            "state": "Tripura"
+        },
+        {
+            "latitude": 17.362976,
+            "longitude": 78.358209,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.045066,
+            "longitude": 78.766491,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 13.615508,
+            "longitude": 79.398085,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 8.363584,
+            "longitude": 77.43063,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 23.135403,
+            "longitude": 79.913848,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 17.540012,
+            "longitude": 83.043649,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.413314,
+            "longitude": 81.846528,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 13.615541,
+            "longitude": 79.398143,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 12.793844,
+            "longitude": 79.307028,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.042647,
+            "longitude": 78.760328,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 12.87483,
+            "longitude": 79.135528,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 15.546187,
+            "longitude": 73.789106,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 22.40255,
+            "longitude": 87.944356,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 11.967386,
+            "longitude": 75.284078,
+            "country": "India",
+            "state": "Puducherry"
+        },
+        {
+            "latitude": 8.598768,
+            "longitude": 77.405534,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 25.62818,
+            "longitude": 88.130508,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 10.226157,
+            "longitude": 77.746999,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 9.500269,
+            "longitude": 78.154393,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.425845,
+            "longitude": 78.392087,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 12.127389,
+            "longitude": 75.516594,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 10.122564,
+            "longitude": 76.75798,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 22.509039,
+            "longitude": 88.332943,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.366409,
+            "longitude": 78.357258,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 21.187957,
+            "longitude": 81.307487,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 17.367553,
+            "longitude": 78.359703,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.366808,
+            "longitude": 78.353525,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.330001,
+            "longitude": 78.377839,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.260092,
+            "longitude": 80.105679,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.372238,
+            "longitude": 78.340783,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 23.118718,
+            "longitude": 79.937191,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 17.329956,
+            "longitude": 78.37785,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 21.446947,
+            "longitude": 80.121131,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 17.369815,
+            "longitude": 78.36772,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 20.803192,
+            "longitude": 80.164025,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 17.427469,
+            "longitude": 78.395281,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.424436,
+            "longitude": 78.366147,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.422411,
+            "longitude": 78.370367,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 15.295545,
+            "longitude": 74.00685,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 22.876433,
+            "longitude": 86.196516,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 23.72043,
+            "longitude": 81.040925,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 15.43293,
+            "longitude": 73.951395,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 13.113023,
+            "longitude": 80.126133,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.452604,
+            "longitude": 78.52318,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 12.968732,
+            "longitude": 80.201514,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 11.029025,
+            "longitude": 76.905547,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 13.005056,
+            "longitude": 80.193306,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 9.461546,
+            "longitude": 77.553264,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 13.005056,
+            "longitude": 80.193306,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.698355,
+            "longitude": 80.072317,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 17.320148,
+            "longitude": 78.394367,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 9.531278,
+            "longitude": 76.546164,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.825106,
+            "longitude": 83.316971,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 17.426291,
+            "longitude": 78.386647,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.781633,
+            "longitude": 76.652742,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 23.18384,
+            "longitude": 72.64267,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 23.152945,
+            "longitude": 79.897579,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 17.409882,
+            "longitude": 78.367932,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 13.715429,
+            "longitude": 79.582643,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 17.485612,
+            "longitude": 78.524262,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.377465,
+            "longitude": 78.321793,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.1719,
+            "longitude": 76.5997,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 10.171917,
+            "longitude": 76.598306,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 10.168108,
+            "longitude": 76.592753,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 17.245899,
+            "longitude": 80.129219,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.410819,
+            "longitude": 78.362294,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.962465,
+            "longitude": 76.805719,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.907114,
+            "longitude": 82.124023,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 17.430281,
+            "longitude": 78.341172,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 17.417914,
+            "longitude": 78.301833,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 9.306061,
+            "longitude": 76.604244,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 11.502948,
+            "longitude": 92.701404,
+            "country": "India",
+            "state": "AndamanandNicobar"
+        },
+        {
+            "latitude": 22.28928,
+            "longitude": 82.761482,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 25.222467,
+            "longitude": 75.837054,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 25.984587,
+            "longitude": 85.676071,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 9.49997,
+            "longitude": 78.15469,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.004289,
+            "longitude": 86.148647,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 21.624889,
+            "longitude": 87.521362,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.483022,
+            "longitude": 78.526978,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 11.116435,
+            "longitude": 79.759741,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 21.732325,
+            "longitude": 79.341312,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 8.429569,
+            "longitude": 76.976978,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 23.600022,
+            "longitude": 87.404861,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.418393,
+            "longitude": 78.341966,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 23.596626,
+            "longitude": 87.427885,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.716408,
+            "longitude": 78.303692,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 22.522614,
+            "longitude": 88.342422,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 22.795403,
+            "longitude": 86.229347,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 17.467642,
+            "longitude": 78.507332,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 15.734358,
+            "longitude": 73.802387,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 8.417007,
+            "longitude": 77.606658,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 12.853907,
+            "longitude": 77.50767,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 22.606769,
+            "longitude": 87.30781,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 16.372027,
+            "longitude": 78.727232,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 19.646942,
+            "longitude": 81.597778,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 12.038986,
+            "longitude": 75.418194,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 12.255935,
+            "longitude": 79.030467,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 19.63585,
+            "longitude": 81.589608,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 21.78138,
+            "longitude": 87.8661,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 22.0294,
+            "longitude": 87.8041,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 11.684819,
+            "longitude": 78.176658,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 11.119203,
+            "longitude": 79.755838,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 20.122389,
+            "longitude": 81.637804,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 10.340351,
+            "longitude": 76.364733,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 20.017068,
+            "longitude": 75.395502,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 19.079551,
+            "longitude": 82.031719,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 10.530298,
+            "longitude": 76.347318,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 25.183031,
+            "longitude": 75.824503,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 19.355891,
+            "longitude": 72.796624,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 22.470039,
+            "longitude": 88.324886,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.651692,
+            "longitude": 78.371863,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 22.989245,
+            "longitude": 87.007084,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 11.910588,
+            "longitude": 78.616466,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 19.679682,
+            "longitude": 81.583603,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 13.069791,
+            "longitude": 80.224514,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 10.530294,
+            "longitude": 76.347318,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 15.431541,
+            "longitude": 75.635515,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 11.062717,
+            "longitude": 79.880358,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.989365,
+            "longitude": 87.006708,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 9.778686,
+            "longitude": 76.342815,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.694288,
+            "longitude": 80.20156,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 28.302055,
+            "longitude": 79.803074,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 10.606869,
+            "longitude": 78.623712,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.875636,
+            "longitude": 86.196738,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 22.487282,
+            "longitude": 88.308748,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 21.192432,
+            "longitude": 81.315906,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 22.989349,
+            "longitude": 87.007301,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 17.386963,
+            "longitude": 78.36961,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 23.61453,
+            "longitude": 86.753696,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 22.989522,
+            "longitude": 87.007543,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 23.100079,
+            "longitude": 86.86689,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 9.596848,
+            "longitude": 77.915619,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 10.061207,
+            "longitude": 76.346528,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 16.185284,
+            "longitude": 74.769833,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 21.451,
+            "longitude": 70.451,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 20.593684,
+            "longitude": 78.96288,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 14.63038,
+            "longitude": 74.844865,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 15.333902,
+            "longitude": 74.288354,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 12.214445,
+            "longitude": 79.028914,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 8.667449,
+            "longitude": 77.40995,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 23.19437,
+            "longitude": 72.6473,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 23.9856,
+            "longitude": 73.2216,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 20.678407,
+            "longitude": 85.252842,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 13.636332,
+            "longitude": 78.45388,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 11.138325,
+            "longitude": 75.825708,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 8.880989,
+            "longitude": 76.601057,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.394923,
+            "longitude": 76.96423,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 22.496696,
+            "longitude": 78.25091,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 22.487116,
+            "longitude": 78.245626,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 21.166667,
+            "longitude": 79.633333,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 8.75,
+            "longitude": 77.016667,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 28.6448,
+            "longitude": 77.2167,
+            "country": "India",
+            "state": "Delhi"
+        },
+        {
+            "latitude": 19.076,
+            "longitude": 72.8777,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.0827,
+            "longitude": 80.2707,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.5726,
+            "longitude": 88.3639,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 12.9716,
+            "longitude": 77.5946,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 17.385,
+            "longitude": 78.4867,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 23.0225,
+            "longitude": 72.5714,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 26.8467,
+            "longitude": 80.9462,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.1458,
+            "longitude": 79.0882,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.2993,
+            "longitude": 74.124,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 26.9124,
+            "longitude": 75.7873,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 20.2961,
+            "longitude": 85.8245,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 23.2599,
+            "longitude": 77.4126,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 10.8505,
+            "longitude": 76.2711,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 30.7333,
+            "longitude": 76.7794,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 25.5941,
+            "longitude": 85.1376,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 11.0168,
+            "longitude": 76.9558,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.5854,
+            "longitude": 73.7125,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 18.5204,
+            "longitude": 73.8567,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 26.1445,
+            "longitude": 91.7362,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 34.0837,
+            "longitude": 74.7973,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 9.9312,
+            "longitude": 76.2673,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.2514,
+            "longitude": 81.6296,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 23.3441,
+            "longitude": 85.3096,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 12.2958,
+            "longitude": 76.6394,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 30.3165,
+            "longitude": 78.0322,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 16.5062,
+            "longitude": 80.648,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.7196,
+            "longitude": 75.8577,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.0674,
+            "longitude": 74.856,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 27.1767,
+            "longitude": 78.0081,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 26.4499,
+            "longitude": 80.3319,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.3072,
+            "longitude": 73.1812,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 15.3647,
+            "longitude": 75.124,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.2124,
+            "longitude": 78.1772,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 10.787,
+            "longitude": 78.6903,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.571,
+            "longitude": 77.7277,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 11.6643,
+            "longitude": 78.146,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 28.218,
+            "longitude": 76.8131,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 19.8762,
+            "longitude": 75.3433,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.3176,
+            "longitude": 82.9739,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.6868,
+            "longitude": 83.2185,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 29.9457,
+            "longitude": 78.1642,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 12.87,
+            "longitude": 74.88,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 23.1815,
+            "longitude": 75.7849,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 9.5916,
+            "longitude": 76.5222,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 27.2044,
+            "longitude": 77.4977,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 18.4088,
+            "longitude": 76.5604,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 22.9868,
+            "longitude": 87.855,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 20.932,
+            "longitude": 77.7523,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 14.4673,
+            "longitude": 78.8242,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.7606,
+            "longitude": 83.3731,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.8315,
+            "longitude": 91.2868,
+            "country": "India",
+            "state": "Tripura"
+        },
+        {
+            "latitude": 31.634,
+            "longitude": 74.8723,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 10.0159,
+            "longitude": 76.3419,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 20.4625,
+            "longitude": 85.883,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 24.7914,
+            "longitude": 85.0002,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.9141,
+            "longitude": 74.856,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 25.0961,
+            "longitude": 85.3131,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 13.6288,
+            "longitude": 79.4192,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 16.9891,
+            "longitude": 82.2475,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 28.4595,
+            "longitude": 77.0266,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.5522,
+            "longitude": 72.9482,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 11.2588,
+            "longitude": 75.7804,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.1702,
+            "longitude": 72.8311,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 27.565,
+            "longitude": 80.6763,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 15.3173,
+            "longitude": 75.7139,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 23.6102,
+            "longitude": 85.2799,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 19.033,
+            "longitude": 73.0297,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.4484,
+            "longitude": 78.5685,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 30.6338,
+            "longitude": 76.73,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 10.3673,
+            "longitude": 77.9803,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.0815,
+            "longitude": 82.1501,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 18.0072,
+            "longitude": 79.5583,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.85,
+            "longitude": 80.9499,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 11.9416,
+            "longitude": 79.4861,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.817,
+            "longitude": 93.9368,
+            "country": "India",
+            "state": "Manipur"
+        },
+        {
+            "latitude": 13.3409,
+            "longitude": 74.7421,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 29.0588,
+            "longitude": 76.0856,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 21.7645,
+            "longitude": 72.1519,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 31.1048,
+            "longitude": 77.1734,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 15.8281,
+            "longitude": 78.0373,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 23.5204,
+            "longitude": 87.3119,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 25.7464,
+            "longitude": 82.6837,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 20.9467,
+            "longitude": 72.9333,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 10.5276,
+            "longitude": 76.2144,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 27.8813,
+            "longitude": 78.088,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 14.6819,
+            "longitude": 77.6006,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.4707,
+            "longitude": 70.0577,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 23.7271,
+            "longitude": 92.7176,
+            "country": "India",
+            "state": "Mizoram"
+        },
+        {
+            "latitude": 18.922,
+            "longitude": 72.8347,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.7041,
+            "longitude": 77.1025,
+            "country": "India",
+            "state": "Delhi"
+        },
+        {
+            "latitude": 11.4102,
+            "longitude": 76.695,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 26.1158,
+            "longitude": 91.7086,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 16.3067,
+            "longitude": 80.4365,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 21.2787,
+            "longitude": 81.8661,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 24.5246,
+            "longitude": 82.239,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 12.5186,
+            "longitude": 78.2137,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 30.1453,
+            "longitude": 77.2844,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.176,
+            "longitude": 71.6673,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 17.3616,
+            "longitude": 78.4747,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.5788,
+            "longitude": 91.8833,
+            "country": "India",
+            "state": "Meghalaya"
+        },
+        {
+            "latitude": 20.8254,
+            "longitude": 85.1326,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 15.4909,
+            "longitude": 73.8278,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 27.6094,
+            "longitude": 75.3976,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 23.3601,
+            "longitude": 86.36,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 10.1632,
+            "longitude": 76.6413,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.306,
+            "longitude": 76.13,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 26.2389,
+            "longitude": 73.0243,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 12.6819,
+            "longitude": 78.4983,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 19.0365,
+            "longitude": 72.8598,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.9893,
+            "longitude": 94.2585,
+            "country": "India",
+            "state": "Nagaland"
+        },
+        {
+            "latitude": 17.9689,
+            "longitude": 79.5941,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 22.9734,
+            "longitude": 78.6569,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 11.341,
+            "longitude": 77.7172,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 28.9845,
+            "longitude": 77.7064,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.1467,
+            "longitude": 72.7679,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 15.2832,
+            "longitude": 73.9862,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 24.1953,
+            "longitude": 78.4316,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.0418,
+            "longitude": 80.2341,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 27.1417,
+            "longitude": 77.1856,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 22.2587,
+            "longitude": 71.1924,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 18.1124,
+            "longitude": 79.0193,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.808,
+            "longitude": 85.7758,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 14.9132,
+            "longitude": 79.993,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 23.03,
+            "longitude": 72.58,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 26.6333,
+            "longitude": 92.8,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 11.25,
+            "longitude": 77.3333,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 19.7506,
+            "longitude": 75.7139,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.6,
+            "longitude": 85.1167,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 13.12,
+            "longitude": 77.6,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.1158,
+            "longitude": 91.7086,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 24.5246,
+            "longitude": 82.239,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 17.3616,
+            "longitude": 78.4747,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 20.8254,
+            "longitude": 85.1326,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 27.6094,
+            "longitude": 75.3976,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 23.3601,
+            "longitude": 86.36,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 10.1632,
+            "longitude": 76.6413,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.306,
+            "longitude": 76.13,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 26.2389,
+            "longitude": 73.0243,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 12.6819,
+            "longitude": 78.4983,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 25.9893,
+            "longitude": 94.2585,
+            "country": "India",
+            "state": "Nagaland"
+        },
+        {
+            "latitude": 17.9689,
+            "longitude": 79.5941,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 22.9734,
+            "longitude": 78.6569,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 28.9845,
+            "longitude": 77.7064,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 24.1953,
+            "longitude": 78.4316,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 27.1417,
+            "longitude": 77.1856,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 18.1124,
+            "longitude": 79.0193,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.808,
+            "longitude": 85.7758,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 14.9132,
+            "longitude": 79.993,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.6333,
+            "longitude": 92.8,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 19.7506,
+            "longitude": 75.7139,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 24.6,
+            "longitude": 73.7,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 15.1333,
+            "longitude": 76.9167,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 32.2396,
+            "longitude": 77.1887,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 23.512,
+            "longitude": 80.3492,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.9299,
+            "longitude": 75.5681,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 25.3213,
+            "longitude": 82.9872,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 20.231,
+            "longitude": 80.0544,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.2035,
+            "longitude": 79.0234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.1245,
+            "longitude": 84.851,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 11.5623,
+            "longitude": 77.2415,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 18.4321,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.8432,
+            "longitude": 85.1234,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 23.4561,
+            "longitude": 72.1234,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 21.6782,
+            "longitude": 81.3456,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 16.1234,
+            "longitude": 75.5678,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 29.3456,
+            "longitude": 76.789,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.1234,
+            "longitude": 86.5678,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 12.3456,
+            "longitude": 78.9012,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 10.4567,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 27.5678,
+            "longitude": 94.1234,
+            "country": "India",
+            "state": "ArunachalPradesh"
+        },
+        {
+            "latitude": 30.1234,
+            "longitude": 74.5678,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 22.3456,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.5678,
+            "longitude": 74.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.1234,
+            "longitude": 81.5678,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.1234,
+            "longitude": 79.5678,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 14.5678,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 23.1234,
+            "longitude": 82.5678,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 11.1234,
+            "longitude": 79.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 33.1234,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 26.5678,
+            "longitude": 88.1234,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 21.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.5678,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.1234,
+            "longitude": 75.1234,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 24.5678,
+            "longitude": 80.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 20.1234,
+            "longitude": 74.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.5678,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.5678,
+            "longitude": 86.1234,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.1234,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 31.5678,
+            "longitude": 75.1234,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 27.1234,
+            "longitude": 93.1234,
+            "country": "India",
+            "state": "ArunachalPradesh"
+        },
+        {
+            "latitude": 22.5678,
+            "longitude": 85.1234,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 18.1234,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 11.5678,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 29.1234,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.5678,
+            "longitude": 71.1234,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 16.5678,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 21.5678,
+            "longitude": 82.1234,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 32.1234,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 26.1234,
+            "longitude": 84.1234,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 20.5678,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 14.1234,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.5678,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.1234,
+            "longitude": 81.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.1234,
+            "longitude": 75.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.1234,
+            "longitude": 87.1234,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 13.1234,
+            "longitude": 79.1234,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 30.5678,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 27.5678,
+            "longitude": 81.1234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.1234,
+            "longitude": 73.1234,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 17.5678,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 11.1234,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 26.5678,
+            "longitude": 79.1234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.1234,
+            "longitude": 75.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.1234,
+            "longitude": 74.1234,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 28.1234,
+            "longitude": 74.1234,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 24.1234,
+            "longitude": 85.1234,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 10.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 31.1234,
+            "longitude": 76.1234,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 27.1234,
+            "longitude": 88.1234,
+            "country": "India",
+            "state": "Sikkim"
+        },
+        {
+            "latitude": 23.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 18.1234,
+            "longitude": 74.1234,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 12.1234,
+            "longitude": 79.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 29.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 25.1234,
+            "longitude": 91.1234,
+            "country": "India",
+            "state": "Meghalaya"
+        },
+        {
+            "latitude": 21.1234,
+            "longitude": 85.1234,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 16.1234,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 10.1234,
+            "longitude": 79.1234,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 28.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 24.1234,
+            "longitude": 77.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 14.1234,
+            "longitude": 78.1234,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.1234,
+            "longitude": 80.1234,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 12.5,
+            "longitude": 76.5,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.8,
+            "longitude": 81.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 20.4,
+            "longitude": 79.5,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.6,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 30.2,
+            "longitude": 75.8,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 23.7,
+            "longitude": 86.9,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 11.4,
+            "longitude": 77.5,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 18.7,
+            "longitude": 73.9,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 24.9,
+            "longitude": 84.4,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.8,
+            "longitude": 75.2,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 27.3,
+            "longitude": 76.6,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 21.8,
+            "longitude": 82.9,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 16.9,
+            "longitude": 81.7,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.6,
+            "longitude": 71.3,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 28.4,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 25.4,
+            "longitude": 91.9,
+            "country": "India",
+            "state": "Meghalaya"
+        },
+        {
+            "latitude": 14.3,
+            "longitude": 76.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 20.1,
+            "longitude": 85.5,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 32.7,
+            "longitude": 74.8,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 10.9,
+            "longitude": 79.4,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 23.2,
+            "longitude": 77.6,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.3,
+            "longitude": 72.9,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 26.5,
+            "longitude": 88.3,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 13.5,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 21.4,
+            "longitude": 70.6,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 25.7,
+            "longitude": 83.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.8,
+            "longitude": 74.4,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 11.2,
+            "longitude": 75.9,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 24.3,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 29.8,
+            "longitude": 76.3,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.8,
+            "longitude": 86.2,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 12.1,
+            "longitude": 78.3,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 20.6,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.9,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 27.9,
+            "longitude": 75.2,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 23.9,
+            "longitude": 82.1,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 16.4,
+            "longitude": 80.5,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.2,
+            "longitude": 91.5,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 31.3,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 22.2,
+            "longitude": 70.8,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 18.5,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 24.7,
+            "longitude": 81.3,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.3,
+            "longitude": 74.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.1,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "Delhi"
+        },
+        {
+            "latitude": 21.2,
+            "longitude": 81.4,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 25.2,
+            "longitude": 86.8,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 14.8,
+            "longitude": 77.5,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 20.8,
+            "longitude": 78.4,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 30.7,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 23.4,
+            "longitude": 85.3,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 10.3,
+            "longitude": 76.3,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 27.6,
+            "longitude": 80.7,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 18.2,
+            "longitude": 76.6,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 12.4,
+            "longitude": 79.2,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 29.5,
+            "longitude": 75.1,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 21.9,
+            "longitude": 72.4,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 15.2,
+            "longitude": 75.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.9,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 24.2,
+            "longitude": 73.8,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 19.9,
+            "longitude": 74.5,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.9,
+            "longitude": 78.6,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.9,
+            "longitude": 85.8,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 31.9,
+            "longitude": 76.9,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 22.9,
+            "longitude": 71.9,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 11.8,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 18.8,
+            "longitude": 79.6,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.3,
+            "longitude": 80.4,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.7,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 15.7,
+            "longitude": 74.5,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.7,
+            "longitude": 76.2,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.8,
+            "longitude": 86.1,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 12.6,
+            "longitude": 78.9,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 30.1,
+            "longitude": 74.9,
+            "country": "Punjab",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 23.1,
+            "longitude": 72.3,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 19.4,
+            "longitude": 76.1,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.1,
+            "longitude": 82.5,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.1,
+            "longitude": 78.9,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 10.1,
+            "longitude": 76.9,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 26.7,
+            "longitude": 94.2,
+            "country": "India",
+            "state": "Nagaland"
+        },
+        {
+            "latitude": 22.3,
+            "longitude": 82.1,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 13.1,
+            "longitude": 77.4,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 32.5,
+            "longitude": 76.2,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 24.5,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 18.6,
+            "longitude": 74.6,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 11.6,
+            "longitude": 79.2,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 29.2,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.6,
+            "longitude": 70.9,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 16.6,
+            "longitude": 79.4,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 21.6,
+            "longitude": 85.6,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 27.2,
+            "longitude": 81.3,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 14.4,
+            "longitude": 75.9,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 20.3,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.3,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 25.3,
+            "longitude": 85.9,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.3,
+            "longitude": 77.9,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 10.5,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 23.25,
+            "longitude": 77.41,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 26.91,
+            "longitude": 75.78,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 28.61,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "Delhi"
+        },
+        {
+            "latitude": 22.57,
+            "longitude": 88.36,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 12.97,
+            "longitude": 77.59,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 17.38,
+            "longitude": 78.48,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 23.02,
+            "longitude": 72.57,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 26.84,
+            "longitude": 80.94,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.14,
+            "longitude": 79.08,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.29,
+            "longitude": 74.12,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 20.29,
+            "longitude": 85.82,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 30.73,
+            "longitude": 76.77,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 25.59,
+            "longitude": 85.13,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 24.58,
+            "longitude": 73.71,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 18.52,
+            "longitude": 73.85,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 26.14,
+            "longitude": 91.73,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 34.08,
+            "longitude": 74.79,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 21.25,
+            "longitude": 81.62,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 23.34,
+            "longitude": 85.3,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 30.31,
+            "longitude": 78.03,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 16.5,
+            "longitude": 80.64,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.71,
+            "longitude": 75.85,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 27.17,
+            "longitude": 78.0,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 26.46,
+            "longitude": 80.33,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.3,
+            "longitude": 73.18,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 15.36,
+            "longitude": 75.12,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.21,
+            "longitude": 78.17,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 10.78,
+            "longitude": 78.69,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.57,
+            "longitude": 77.72,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 28.21,
+            "longitude": 76.81,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 19.87,
+            "longitude": 75.34,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.31,
+            "longitude": 82.97,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.68,
+            "longitude": 83.21,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 29.94,
+            "longitude": 78.16,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 23.18,
+            "longitude": 75.78,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 9.59,
+            "longitude": 76.52,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 27.2,
+            "longitude": 77.49,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 18.4,
+            "longitude": 76.56,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 22.98,
+            "longitude": 87.85,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 20.93,
+            "longitude": 77.75,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 14.46,
+            "longitude": 78.82,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.76,
+            "longitude": 83.37,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.83,
+            "longitude": 91.28,
+            "country": "India",
+            "state": "Tripura"
+        },
+        {
+            "latitude": 31.63,
+            "longitude": 74.87,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 10.01,
+            "longitude": 76.34,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 20.46,
+            "longitude": 85.88,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 24.79,
+            "longitude": 85.0,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 25.09,
+            "longitude": 85.31,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 13.62,
+            "longitude": 79.41,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 16.98,
+            "longitude": 82.24,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 28.45,
+            "longitude": 77.02,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.55,
+            "longitude": 72.94,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 11.25,
+            "longitude": 75.78,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.17,
+            "longitude": 72.83,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 27.56,
+            "longitude": 80.67,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 15.31,
+            "longitude": 75.71,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 23.61,
+            "longitude": 85.27,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 19.03,
+            "longitude": 73.02,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.44,
+            "longitude": 78.56,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 30.63,
+            "longitude": 76.73,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 10.36,
+            "longitude": 77.98,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 22.08,
+            "longitude": 82.15,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 18.0,
+            "longitude": 79.55,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 24.81,
+            "longitude": 93.93,
+            "country": "India",
+            "state": "Manipur"
+        },
+        {
+            "latitude": 13.34,
+            "longitude": 74.74,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 29.05,
+            "longitude": 76.08,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 21.76,
+            "longitude": 72.15,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 31.1,
+            "longitude": 77.17,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 15.82,
+            "longitude": 78.03,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 23.52,
+            "longitude": 87.31,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 25.74,
+            "longitude": 82.68,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 20.94,
+            "longitude": 72.93,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 10.52,
+            "longitude": 76.21,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 27.88,
+            "longitude": 78.08,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 14.68,
+            "longitude": 77.6,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.47,
+            "longitude": 70.05,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 23.72,
+            "longitude": 92.71,
+            "country": "India",
+            "state": "Mizoram"
+        },
+        {
+            "latitude": 11.41,
+            "longitude": 76.69,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 16.3,
+            "longitude": 80.43,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 21.27,
+            "longitude": 81.86,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 24.52,
+            "longitude": 82.23,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 12.51,
+            "longitude": 78.21,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 30.14,
+            "longitude": 77.28,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.17,
+            "longitude": 71.66,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 25.57,
+            "longitude": 91.88,
+            "country": "India",
+            "state": "Meghalaya"
+        },
+        {
+            "latitude": 20.82,
+            "longitude": 85.13,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 27.6,
+            "longitude": 75.39,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 23.36,
+            "longitude": 86.36,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 10.16,
+            "longitude": 76.64,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 21.3,
+            "longitude": 76.13,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 26.23,
+            "longitude": 73.02,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 12.68,
+            "longitude": 78.49,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 25.98,
+            "longitude": 94.25,
+            "country": "India",
+            "state": "Nagaland"
+        },
+        {
+            "latitude": 17.96,
+            "longitude": 79.59,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 22.97,
+            "longitude": 78.65,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 28.98,
+            "longitude": 77.7,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.14,
+            "longitude": 72.76,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 24.19,
+            "longitude": 78.43,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.04,
+            "longitude": 80.23,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 27.14,
+            "longitude": 77.18,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 22.25,
+            "longitude": 71.19,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 18.11,
+            "longitude": 79.01,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 25.8,
+            "longitude": 85.77,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 14.91,
+            "longitude": 79.99,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.63,
+            "longitude": 92.8,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 19.75,
+            "longitude": 75.71,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 24.6,
+            "longitude": 73.7,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 15.13,
+            "longitude": 76.91,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 32.23,
+            "longitude": 77.18,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 23.51,
+            "longitude": 80.34,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.92,
+            "longitude": 75.56,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 20.23,
+            "longitude": 80.05,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.2,
+            "longitude": 79.02,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.12,
+            "longitude": 84.85,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 11.56,
+            "longitude": 77.24,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 23.45,
+            "longitude": 72.12,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 21.67,
+            "longitude": 81.34,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 16.12,
+            "longitude": 75.56,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 29.34,
+            "longitude": 76.78,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.12,
+            "longitude": 86.56,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 12.34,
+            "longitude": 78.9,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 27.56,
+            "longitude": 94.12,
+            "country": "India",
+            "state": "ArunachalPradesh"
+        },
+        {
+            "latitude": 30.12,
+            "longitude": 74.56,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 22.34,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.56,
+            "longitude": 74.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.12,
+            "longitude": 81.56,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.12,
+            "longitude": 79.56,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 14.56,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 23.12,
+            "longitude": 82.56,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 11.12,
+            "longitude": 79.12,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 33.12,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 26.56,
+            "longitude": 88.12,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 21.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.56,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.12,
+            "longitude": 75.12,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 24.56,
+            "longitude": 80.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 20.12,
+            "longitude": 74.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.56,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.56,
+            "longitude": 86.12,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.12,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 31.56,
+            "longitude": 75.12,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 27.12,
+            "longitude": 93.12,
+            "country": "India",
+            "state": "ArunachalPradesh"
+        },
+        {
+            "latitude": 22.56,
+            "longitude": 85.12,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 18.12,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 29.12,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.56,
+            "longitude": 71.12,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 16.56,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 21.56,
+            "longitude": 82.12,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 32.12,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 26.12,
+            "longitude": 84.12,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 20.56,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 14.12,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.56,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.12,
+            "longitude": 81.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.12,
+            "longitude": 75.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.12,
+            "longitude": 87.12,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 13.12,
+            "longitude": 79.12,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 30.56,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "Uttarakhand"
+        },
+        {
+            "latitude": 27.56,
+            "longitude": 81.12,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 22.12,
+            "longitude": 73.12,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 17.56,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 11.12,
+            "longitude": 76.12,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 26.56,
+            "longitude": 79.12,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.12,
+            "longitude": 75.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.12,
+            "longitude": 74.12,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 24.12,
+            "longitude": 85.12,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 27.12,
+            "longitude": 88.12,
+            "country": "India",
+            "state": "Sikkim"
+        },
+        {
+            "latitude": 23.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 18.12,
+            "longitude": 74.12,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 12.12,
+            "longitude": 79.12,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 29.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 25.12,
+            "longitude": 91.12,
+            "country": "India",
+            "state": "Meghalaya"
+        },
+        {
+            "latitude": 21.12,
+            "longitude": 85.12,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 28.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 24.12,
+            "longitude": 77.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 14.12,
+            "longitude": 78.12,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.12,
+            "longitude": 80.12,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 12.5,
+            "longitude": 76.5,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.8,
+            "longitude": 81.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 20.4,
+            "longitude": 79.5,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.6,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 30.2,
+            "longitude": 75.8,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 23.7,
+            "longitude": 86.9,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 18.7,
+            "longitude": 73.9,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 24.9,
+            "longitude": 84.4,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.8,
+            "longitude": 75.2,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 27.3,
+            "longitude": 76.6,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 21.8,
+            "longitude": 82.9,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 16.9,
+            "longitude": 81.7,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 22.6,
+            "longitude": 71.3,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 28.4,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 14.3,
+            "longitude": 76.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 20.1,
+            "longitude": 85.5,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 32.7,
+            "longitude": 74.8,
+            "country": "India",
+            "state": "JammuAndKashmir"
+        },
+        {
+            "latitude": 23.2,
+            "longitude": 77.6,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.3,
+            "longitude": 72.9,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 26.5,
+            "longitude": 88.3,
+            "country": "India",
+            "state": "WestBengal"
+        },
+        {
+            "latitude": 13.5,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 21.4,
+            "longitude": 70.6,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 25.7,
+            "longitude": 83.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.8,
+            "longitude": 74.4,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 24.3,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 29.8,
+            "longitude": 76.3,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.8,
+            "longitude": 86.2,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 20.6,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 15.9,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 27.9,
+            "longitude": 75.2,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 16.4,
+            "longitude": 80.5,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 26.2,
+            "longitude": 91.5,
+            "country": "India",
+            "state": "Assam"
+        },
+        {
+            "latitude": 31.3,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 22.2,
+            "longitude": 70.8,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 18.5,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 24.7,
+            "longitude": 81.3,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 13.3,
+            "longitude": 74.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 21.2,
+            "longitude": 81.4,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 25.2,
+            "longitude": 86.8,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 14.8,
+            "longitude": 77.5,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 20.8,
+            "longitude": 78.4,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 30.7,
+            "longitude": 77.2,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 23.4,
+            "longitude": 85.3,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 27.6,
+            "longitude": 80.7,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 18.2,
+            "longitude": 76.6,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 29.5,
+            "longitude": 75.1,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 21.9,
+            "longitude": 72.4,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 15.2,
+            "longitude": 75.8,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 26.9,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 24.2,
+            "longitude": 73.8,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 19.9,
+            "longitude": 74.5,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.9,
+            "longitude": 78.6,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.9,
+            "longitude": 85.8,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 31.9,
+            "longitude": 76.9,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 22.9,
+            "longitude": 71.9,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 18.8,
+            "longitude": 79.6,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.3,
+            "longitude": 80.4,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 21.7,
+            "longitude": 78.2,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 15.7,
+            "longitude": 74.5,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 28.7,
+            "longitude": 76.2,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 24.8,
+            "longitude": 86.1,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 23.1,
+            "longitude": 72.3,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 19.4,
+            "longitude": 76.1,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 25.1,
+            "longitude": 82.5,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 17.1,
+            "longitude": 78.9,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 26.7,
+            "longitude": 94.2,
+            "country": "India",
+            "state": "Nagaland"
+        },
+        {
+            "latitude": 22.3,
+            "longitude": 82.1,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 13.1,
+            "longitude": 77.4,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 32.5,
+            "longitude": 76.2,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 24.5,
+            "longitude": 77.1,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 18.6,
+            "longitude": 74.6,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 29.2,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 23.6,
+            "longitude": 70.9,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 21.6,
+            "longitude": 85.6,
+            "country": "India",
+            "state": "Odisha"
+        },
+        {
+            "latitude": 27.2,
+            "longitude": 81.3,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 14.4,
+            "longitude": 75.9,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 20.3,
+            "longitude": 78.8,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 28.3,
+            "longitude": 75.6,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 25.3,
+            "longitude": 85.9,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 12.3,
+            "longitude": 77.9,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 15.5,
+            "longitude": 73.9,
+            "country": "India",
+            "state": "Goa"
+        },
+        {
+            "latitude": 21.5,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 26.5,
+            "longitude": 74.5,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 24.5,
+            "longitude": 82.5,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 19.5,
+            "longitude": 78.5,
+            "country": "India",
+            "state": "Telangana"
+        },
+        {
+            "latitude": 14.5,
+            "longitude": 76.5,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 11.5,
+            "longitude": 76.3,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 29.5,
+            "longitude": 76.5,
+            "country": "India",
+            "state": "Haryana"
+        },
+        {
+            "latitude": 22.5,
+            "longitude": 84.5,
+            "country": "India",
+            "state": "Jharkhand"
+        },
+        {
+            "latitude": 30.5,
+            "longitude": 74.3,
+            "country": "India",
+            "state": "Punjab"
+        },
+        {
+            "latitude": 27.5,
+            "longitude": 91.3,
+            "country": "India",
+            "state": "ArunachalPradesh"
+        },
+        {
+            "latitude": 20.5,
+            "longitude": 74.3,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 13.5,
+            "longitude": 78.5,
+            "country": "India",
+            "state": "AndhraPradesh"
+        },
+        {
+            "latitude": 25.5,
+            "longitude": 87.5,
+            "country": "India",
+            "state": "Bihar"
+        },
+        {
+            "latitude": 16.5,
+            "longitude": 75.3,
+            "country": "India",
+            "state": "Karnataka"
+        },
+        {
+            "latitude": 10.5,
+            "longitude": 76.5,
+            "country": "India",
+            "state": "Kerala"
+        },
+        {
+            "latitude": 28.5,
+            "longitude": 75.3,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 23.5,
+            "longitude": 81.3,
+            "country": "India",
+            "state": "MadhyaPradesh"
+        },
+        {
+            "latitude": 31.5,
+            "longitude": 77.3,
+            "country": "India",
+            "state": "HimachalPradesh"
+        },
+        {
+            "latitude": 21.5,
+            "longitude": 83.3,
+            "country": "India",
+            "state": "Chhattisgarh"
+        },
+        {
+            "latitude": 26.5,
+            "longitude": 81.5,
+            "country": "India",
+            "state": "UttarPradesh"
+        },
+        {
+            "latitude": 18.5,
+            "longitude": 76.3,
+            "country": "India",
+            "state": "Maharashtra"
+        },
+        {
+            "latitude": 12.5,
+            "longitude": 78.3,
+            "country": "India",
+            "state": "TamilNadu"
+        },
+        {
+            "latitude": 24.5,
+            "longitude": 75.5,
+            "country": "India",
+            "state": "Rajasthan"
+        },
+        {
+            "latitude": 22.5,
+            "longitude": 72.5,
+            "country": "India",
+            "state": "Gujarat"
+        },
+        {
+            "latitude": 17.5,
+            "longitude": 79.5,
+            "country": "India",
+            "state": "Telangana"
+        }
+    ],
+    "scientific_name": "Pinus_kesiya",
+    "common_name": "Green Chiretta",
+    "description": null
+}

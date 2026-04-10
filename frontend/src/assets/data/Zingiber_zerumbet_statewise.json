@@ -1,0 +1,116 @@
+{
+  "herb": "Zingiber_zerumbet",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 65,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Telangana": {
+      "count": 36,
+      "normalizedScore": 0.55,
+      "presence": "Medium"
+    },
+    "TamilNadu": {
+      "count": 33,
+      "normalizedScore": 0.51,
+      "presence": "Medium"
+    },
+    "Kerala": {
+      "count": 23,
+      "normalizedScore": 0.35,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 49,
+      "normalizedScore": 0.75,
+      "presence": "High"
+    },
+    "NCTofDelhi": {
+      "count": 7,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 10,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 13,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Haryana": {
+      "count": 2,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 6,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 2,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 6,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Goa": {
+      "count": 4,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 3,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "DadraandNagarHaveli": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Tripura": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 5,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "HimachalPradesh": {
+      "count": 2,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "Puducherry": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}
