@@ -10,7 +10,7 @@ const axios = require("axios");
 const RAG_SERVICE_URL = process.env.RAG_SERVICE_URL || "http://localhost:8000";
 
 const app = express();
-const PORT = 3001;
+const PORT = 5000;
 
 const METADATA_PATH = path.join(__dirname, "../frontend/public/metadata");
 
@@ -288,7 +288,7 @@ app.post("/api/chat", async (req, res) => {
 });
 
 app.listen(PORT, '0.0.0.0', () => {
-  console.log("Server running on port 3001");
+  console.log("Server running on port 5000");
 });
 
 
