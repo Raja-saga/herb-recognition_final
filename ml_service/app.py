@@ -8,21 +8,37 @@ app = Flask(__name__)
 def home():
     return "ML Server Running 🚀"
 
+from flask import Flask, request, jsonify
+import os
+from predict import predict_herb
+
+app = Flask(__name__)
+
+UPLOAD_FOLDER = "uploads"
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+@app.route("/", methods=["GET"])
+def home():
+    return "ML Server Running 🚀"
+
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
-        file = request.files["image"]
-        img = Image.open(file.stream)
+        if "image" not in request.files:
+            return jsonify({"error": "No image provided", "success": False}), 400
 
-        # TODO: call your model here
-        result = {
-            "prediction": "Neem",
-            "confidence": 0.95
-        }
+        file = request.files["image"]
+
+        filepath = os.path.join(UPLOAD_FOLDER, file.filename)
+        file.save(filepath)
+
+        # ✅ CALL YOUR FUNCTION DIRECTLY
+        result = predict_herb(filepath)
 
         return jsonify(result)
+
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"error": str(e), "success": False}), 500
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)

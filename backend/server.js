@@ -60,7 +60,7 @@ function loadHerbMetadata(herbName) {
 
 
 
-app.post("/api/predict", upload.single("image"), async (req, res) => {
+app.post("31.97.239.242/api/predict", upload.single("image"), async (req, res) => {
   const imagePath = req.file.path;
   const { latitude, longitude } = req.body;
 
