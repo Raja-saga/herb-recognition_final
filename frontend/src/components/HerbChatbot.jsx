@@ -34,7 +34,7 @@ export default function HerbChatbot({ predictedHerb }) {
     setLoading(true);
 
     try {
-      const res = await fetch("http://localhost:3001/api/chat", {
+      const res = await fetch("http://31.97.239.242:3001/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ 
