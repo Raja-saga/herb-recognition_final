@@ -41,8 +41,6 @@ __pycache__/
 *.pt
 
 # Database / vectors
-vector_db/
-vector_db_ta/
 venv_gpu/
 .venv/
 
