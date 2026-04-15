@@ -31,7 +31,11 @@ const upload = multer({ storage });
 function runPythonPrediction(imagePath) {
   return new Promise((resolve) => {
     const script = path.join(__dirname, "../ml_service/predict.py");
-    const py = spawn("python", [script, imagePath]);
+    // const py = spawn("python", [script, imagePath]);
+    const py = spawn(
+      path.join(__dirname, "../ml_service/venv/bin/python"),
+      [script, imagePath]
+    );
 
     let output = "";
 
