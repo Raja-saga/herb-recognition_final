@@ -14,7 +14,27 @@ const PORT = 5000;
 
 const METADATA_PATH = path.join(__dirname, "../frontend/public/metadata");
 
-app.use(cors());
+const ALLOWED_ORIGINS = [
+  "http://localhost:5173",
+  "http://localhost:3001",
+  "http://31.97.239.242",
+  "http://31.97.239.242:5173",
+  "http://31.97.239.242:3001",
+];
+
+app.use(cors({
+  origin: (origin, cb) => {
+    // allow requests with no origin (curl, mobile apps, server-to-server)
+    if (!origin || ALLOWED_ORIGINS.includes(origin)) return cb(null, true);
+    cb(new Error(`CORS blocked: ${origin}`));
+  },
+  methods: ["GET", "POST", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true
+}));
+
+// Handle preflight for all routes
+app.options("*", cors());
 app.use(express.json());
 
 const stateMapRoutes = require("./routes/stateMapRoutes");

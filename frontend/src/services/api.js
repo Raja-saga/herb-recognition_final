@@ -46,7 +46,7 @@ export const getCurrentLocation = () => {
   });
 };
 export async function getStateMapData(herb) {
-  const res = await fetch(`http://31.97.239.242:3001/api/state-map/${herb}`);
+  const res = await fetch(`${API_BASE}/state-map/${herb}`);
   if (!res.ok) throw new Error("Failed to load state map data");
   return res.json();
 }
