@@ -3,7 +3,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from app.rag_pipeline import generate_answer
 
-app = FastAPI(title="Herb RAG Service", version="1.0.0")
+app = FastAPI(
+    title="Herb RAG Service",
+    version="1.0.0",
+    openapi_version="3.0.0"
+)
 
 app.add_middleware(
     CORSMiddleware,
